@@ -1,1 +1,3 @@
+Template Prompt Konten DiTz Prompt
 
+Isi niche, target audiens, gaya bahasa, format output, dan CTA.
